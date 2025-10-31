@@ -43,7 +43,8 @@ The dashboard aims to help business owners and analysts identify top-selling pro
 ---
 
 ## 📸 Dashboard Preview
-(image.png)
+[![View Dashboard](image.png)]([https://github.com/yourusername/ecommerce-dashboard](https://github.com/rajrawal/Ecommerce-Sales-Analysis-Dashboard/blob/main/image.png))
+
 
 ---
 
