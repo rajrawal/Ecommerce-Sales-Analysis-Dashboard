@@ -43,7 +43,7 @@ The dashboard aims to help business owners and analysts identify top-selling pro
 ---
 
 ## 📸 Dashboard Preview
-*(Add a screenshot of your dashboard here — optional but highly recommended)*
+*(image.png)*
 
 ---
 
