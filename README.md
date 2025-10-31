@@ -50,8 +50,8 @@ The dashboard aims to help business owners and analysts identify top-selling pro
 
 ## 👤 Author
 **Raj Rawal**  
-📧 [Your Email]  
-🔗 [Your LinkedIn Profile]  
+📧 [rajrawalrj@gmail.com]  
+🔗 [[Your LinkedIn Profile](https://www.linkedin.com/in/rajrawaldatascientist/)]  
 💻 Passionate about data analytics, visualization, and business intelligence.
 
 ---
